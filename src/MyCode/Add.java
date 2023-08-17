@@ -1,7 +1,8 @@
 package MyCode;
 
 public class Add {
-	public void sum(int x,int y) {
+	public int sum(int x,int y) {
+		return x+y;
 
 }
 }
